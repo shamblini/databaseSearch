@@ -1,9 +1,11 @@
 # databaseSearch
 
 WHAT:
+
 Application used to search the database with specific fields in mind
 
 NOTES:
+
   Search by: City or Zip Code (use a button)
 
   Use Google Places for search bar (city only)
